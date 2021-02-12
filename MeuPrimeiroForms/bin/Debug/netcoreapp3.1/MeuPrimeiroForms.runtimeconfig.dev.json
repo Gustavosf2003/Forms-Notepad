@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gsfer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gsfer\\.nuget\\packages"
+    ]
+  }
+}

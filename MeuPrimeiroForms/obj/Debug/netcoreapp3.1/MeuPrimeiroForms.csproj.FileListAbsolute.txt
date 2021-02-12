@@ -1,0 +1,32 @@
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.exe
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.deps.json
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.runtimeconfig.json
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.runtimeconfig.dev.json
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.dll
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.pdb
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.csprojAssemblyReference.cache
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.Properties.Resources.resources
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.csproj.GenerateResource.cache
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.AssemblyInfoInputs.cache
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.AssemblyInfo.cs
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.csproj.CoreCompileInputs.cache
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.dll
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.pdb
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.genruntimeconfig.cache
+C:\Gustavo\Meus Projetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.frmCadastro.resources
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.exe
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.deps.json
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.runtimeconfig.json
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.runtimeconfig.dev.json
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.dll
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\bin\Debug\netcoreapp3.1\MeuPrimeiroForms.pdb
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.csprojAssemblyReference.cache
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.frmCadastro.resources
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.Properties.Resources.resources
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.csproj.GenerateResource.cache
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.AssemblyInfoInputs.cache
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.AssemblyInfo.cs
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.csproj.CoreCompileInputs.cache
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.dll
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.pdb
+C:\Gustavo\MeusProjetos\MeuPrimeiroForms\MeuPrimeiroForms\obj\Debug\netcoreapp3.1\MeuPrimeiroForms.genruntimeconfig.cache
